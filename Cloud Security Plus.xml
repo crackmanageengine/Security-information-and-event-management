@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><License>
+   <!--Information-->
+   <!--More details : Contact Email:  crackmanageengine@gmail.com-->
+   <Users>
+      <UserInfo ACNTRL="NO" CompanyName="Cloud Security Plus Demo" EmailID=" crackmanageengine@gmail.com " ExpiryDate="2025-03-30" Key="nJbGSnDTGRbp9NS3GAPDKfRQpy7TGfcTdP3XG7KSlcfXSbKzJPfGSNT7JPyTQTT7fpy7a7czJR9VSaTdndu9zaSluNP7eNSPJdJDQdDlndz9zSbTndS3fblKdRcXKbPAfRSVGNlDdpP3SNxQ9ca7zuDTfVxGebJQ" LicenseType="Registered" Name="Cloud Security Plus Demo">
+         <ID>ID</ID>
+      </UserInfo>
+   </Users>
+   <LicenseeDetails ID="ID">
+      <Product Category="Standard" Name="Cloud Security Plus" Type="Standard" Version="4.0.0"/>
+      <Component Name="CloudAccounts">
+         <Properties Name="NumberOfCloudAccounts" Value="10000"/>
+      </Component>
+      <Component Name="AWSS3Logs">
+         <Properties Name="NumberOfAWSS3Logs" Value="10000"/>
+      </Component>
+   </LicenseeDetails>
+   <LicenseKey>00001sijlVooaAFORvQmKnsijlVooaA00001s4NKjYYAGKjLPFORvQmKns4NKjYYAGKjLPGRXGNX4oGRXGNX4o0I0ITsKLpsk48RKYvosGKjLPdjdj</LicenseKey>
+</License>
