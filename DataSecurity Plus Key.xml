@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><License>
+   <!--Information-->
+   <!--More details : Contact Email:  crackmanageengine@gmail.com-->
+   <Users>
+      <UserInfo ACNTRL="NO" CompanyName="FileAudit Plus Demo" EmailID=" crackmanageengine@gmail.com " ExpiryDate="2025-03-31" Key="nJbGSnDTGRbp9NS3GAPDKfRQpy7TGfJTdP3XG7KSlcfXSbKzJPfGSNT7JPyTQTT7fpy7a7czJR9VSaTdndTDQTD7uppynncyndz9zSbTndS3fblKdpDGKbDVupy7uuDydRu3GNK99c77KbPV" LicenseType="Registered" Name="FileAudit Plus Demo">
+         <ID>ID</ID>
+      </UserInfo>
+   </Users>
+   <LicenseeDetails ID="ID">
+      <Product Category="Auditing" Name="ManageEngine FileAudit Plus" Type="Professional" Version="1.0.0.0"/>
+      <Component Name="FileServer">
+         <Properties Name="NumberOfFileServers" Value="5"/>
+         <Properties Name="NumberOfNasFileServers" Value="5"/>
+      </Component>
+      <Component Name="DataDiscovery">
+         <Properties Name="NumberOfServers" Value="0"/>
+         <Properties Name="DataLimit" Value="1"/>
+      </Component>
+      <Component Name="Endpoint">
+         <Properties Name="NumberOfEndpoints" Value="200"/>
+      </Component>
+      <Component Name="FileAnalysis">
+         <Properties Name="DataSize" Value="10"/>
+      </Component>
+   </LicenseeDetails>
+   <LicenseKey>01v98oX4Xds8skLXNAvL8f00Ws4N8jHGNgFORvQmKn4N8jHGNg148m8lX4Xd0sRv3RvoFORvQmKnkRv3jYs8dX4Xd5sRv3RvovL8fsXnFORvQmKn5sRv3RvovL8fFORvQmKnRv3RvovL8fiN848GKALXNj8ssvFjRp0I0I0I1sKLps48GKAvL8fsvN8iNgviXNXMdjdj</LicenseKey>
+</License>
