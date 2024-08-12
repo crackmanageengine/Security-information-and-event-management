@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><License>
+   <!--Information-->
+   <!--More details : Contact Email:  crackmanageengine@gmail.com-->
+   <Users>
+      <UserInfo ACNTRL="NO" CompanyName="Sharepoint Manager Plus Demo" EmailID="support@sharepointmanagerplus.com" ExpiryDate="2025-05-31" Key="nJbGSnDTGRbp9NS3GAPDKfRQpy7TKfJTdP3XGSauJcVp9dDcndcVQyT7JcVDQTRydVf917DJnPJ9QTxlnd9VSaTddNcVQyT7JcVDQTRyndGVQTSzdpbp91bQJRpXG1b9nP77yaxTnJQXAPlJdNaG1TJAdPQ7nzlSfVuxANlf9cP7KRDZdyaGxPJV" LicenseType="Registered" Name="Sharepoint Manager Plus Demo">
+         <ID>ID</ID>
+      </UserInfo>
+   </Users>
+   <LicenseeDetails ID="ID">
+      <Product Category="Standard" Name="Sharepoint Manager Plus" Type="Standard" Version="4.0.0"/>
+      <Component Name="Farms">
+         <Properties Name="NumberOfFarms" Value="3"/>
+      </Component>
+      <Component Name="SiteCollections">
+         <Properties Name="NumberOfSiteCollections" Value="unlimited"/>
+      </Component>
+      <Component Name="Users">
+         <Properties Name="NumberOfUsers" Value="unlimited"/>
+      </Component>
+   </LicenseeDetails>
+   <LicenseKey>Gv48m8LNKsRvswFORvQmKnsRvswGv48m8LNKsNj84YvLLjPv48oFORvQmKnsNj84YvLLjPv48oVsmRXfFORvQmKnsmRXfGRXGNX4oGRXGNX4o0I0ITsKLpsRviXNXMs4N8jHvRXCodjdj</LicenseKey>
+</License>
