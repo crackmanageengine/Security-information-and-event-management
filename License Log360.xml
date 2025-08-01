@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?><License>
+   <!--Please do not edit this license file. Editing this file will make the license invalid.-->
+   <Users>
+      <UserInfo ACNTRL="NO" CompanyName="Demo Log360" EmailID="crackmanageengine@gmail.com" ExpiryDate="2025-10-01" Key="nJbGSnDTGRbp9NS3GAPDKfRRpy7TAfJQdP3VSySzlp17a7xnlcyXfNSnd9191NTcdp7VQnxfJpf7ybl9nP77y1bfdJyVfdRQfVxGebKf9cT7edRTGAa7xPJV" LicenseType="Registered" Name="Demo Log360">
+         <ID>ID</ID>
+      </UserInfo>
+   </Users>
+   <LicenseeDetails ID="ID">
+      <Product Category="Standard" Name="ManageEngine Log360" Type="Professional" Version="1.0"/>
+      <Component Name="EventLog Analyzer"/>
+      <Component Name="AD Auditing"/>
+   </LicenseeDetails>
+   <LicenseKey>iN848GKAsdARv9kLXNAsijl4Nv3gGRXGNX4oLXNj8ssvFjRp0I106VijlsvN8iNgviXNXMdjdj</LicenseKey>
+</License>
