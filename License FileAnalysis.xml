@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?><License>
+   <!--Information-->
+   <!--More details : Contact Email:  crackmanageengine@gmail.com-->
+   <Users>
+      <UserInfo ACNTRL="NO" CompanyName="FileAnalysis Demo" EmailID="crackmanageengine@gmail.com" ExpiryDate="2025-10-31" Key="nJbGSnDTGRbp9NS3GAPDKfRRpy7TAfJTdP3VSySzlp17a7xnlcyXfNSnd9191NTcdp7VQnxfJpf7yblG3cG3fQKnlcGG71PzndP7uNTddJyyfPlfdPA7zzlTZpP7SRcAdVS7eflc" LicenseType="Registered" Name="FileAnalysis Demo" UnlockFeatures="Full">
+         <ID>ID</ID>
+      </UserInfo>
+   </Users>
+   <LicenseeDetails ID="ID">
+      <Product Category="Auditing" Name="ManageEngine FileAudit Plus" Type="Professional" Version="1.0.0.0"/>
+      <Component Name="FileServer">
+         <Properties Name="NumberOfFileServers" Value="20"/>
+         <Properties Name="NumberOfNasFileServers" Value="30"/>
+      </Component>
+      <Component Name="DataDiscovery">
+         <Properties Name="NumberOfServers" Value="10"/>
+         <Properties Name="DataLimit" Value="10"/>
+      </Component>
+      <Component Name="Endpoint">
+         <Properties Name="NumberOfEndpoints" Value="20"/>
+      </Component>
+      <Component Name="FileAnalysis">
+         <Properties Name="DataSize" Value="10"/>
+      </Component>
+	  <Component Name="LicenseDetails">
+         <Properties Name="CustomerID" Value="111-866-1472"/>
+         <Properties Name="LicenseID" Value="111-866-1472"/>
+         <Properties Name="PrimaryContact" Value="crackmanageengine@gmail.com"/>
+         <Properties Name="licenseusertype" Value="Registered"/>
+      </Component>
+   </LicenseeDetails>
+   <LicenseKey>GvRv4s8ivrvHk4RvsKvsNvY8LmjYIL8XmiavN8iNvviXNXmyYXRY4YX4NjPkRXm8RpWiT1U66EU111djvsNvY8lWiT1U66EU111djRvmj4sKPsL8X4vdvsNvY8l01v98oX4Xds8skLXNAvL8f0Ws4N8jHGNgFORvQmKn4N8jHGNg0148m8lX4Xd01sRv3RvoFORvQmKnkRv3jYs8dX4Xd0VsRv3RvovL8fsXnFORvQmKn0WsRv3RvovL8fFORvQmKnRv3RvovL8fiN848GKALXNj8ssvFjRp0I0I0I1sKLps48GKAvL8fsvN8iNgviXNXMdjdj</LicenseKey>
+</License>
